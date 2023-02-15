@@ -1,1 +1,4 @@
-# HandbookForAspiringHackers
+# Handbook For Aspiring Hackers
+This repository aims to compile all the tools, methodologies and hints/tricks that I find during my cybersecurity learning path. The repository still has a long way to go in order to be considered as a serious and complete reference, but I believe it will be useful, at least for myself, in order to get some starter cybersecurity certifications such as OSCP.
+
+I would like to mention akenofu's [HackAllTheThings](https://github.com/akenofu/HackAllTheThings) and  carlospolop's [HackTricks](https://github.com/carlospolop/hacktricks/blob/master/README.md), which have been my inspiration to start with this project and share my knowledge with the community.
